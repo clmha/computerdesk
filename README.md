@@ -30,9 +30,9 @@ Hormis les outils de base (p. ex. ruban à mesurer), vous aurez également besoi
 # Liste des documents
 * CD1-ASY-001.pdf : dessin d'ensemble du projet avec la liste des pièces;
 * CD1-ASY-002.pdf : dessin d'assemblage par étapes;
-* CD1-MFG-001 : le plan de coupe;
-* CD1-MFG-001 : le coût du projet;
-* CD1-PRT-XYZ : le dessin de définition de la pièce numéro XYZ (notez que les pièces triviales n'ont pas de dessin de définition);
+* CD1-MFG-001.pdf : le plan de coupe;
+* CD1-MFG-001.pdf : le coût du projet;
+* CD1-PRT-XYZ.pdf : le dessin de définition de la pièce numéro XYZ (notez que les pièces triviales n'ont pas de dessin de définition);
 * CD1-REQ-001.pdf : le cahier des charges du bureau.
 
 # Environnement de développement
